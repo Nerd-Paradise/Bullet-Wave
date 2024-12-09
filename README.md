@@ -29,6 +29,6 @@ bun dev
 ## On browser
 
 You can play the game on browser 
-<https://nerd-paradise.github.io/bomb-game/>
+<https://nerd-paradise.github.io/Bullet-Wave/>
 
 Enjoy playing the Bomb Game!
